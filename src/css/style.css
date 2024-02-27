@@ -3,6 +3,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-wrap: nowrap;
 }
 
 .banner__book {
@@ -20,7 +21,7 @@ body {
 
 .chapter {
     text-align: center;
-    margin-top: 2rem;
+    margin-top: 3rem;
     color: #000100;
     letter-spacing: 5px;
 }
@@ -36,7 +37,7 @@ body {
 
 .buttons__control ul {
     display: flex;
-    margin-top: 2rem;
+    margin-top: 4rem;
     justify-content: space-around;
 }
 

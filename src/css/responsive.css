@@ -1,0 +1,12 @@
+@media only screen and (max-width: 600px) {
+    .banner__book {
+        height: 50rem;
+        width: 20rem;
+    }
+    .chapter {
+        margin-top: 5ren;
+    }
+    .buttons__control  {
+        margin-top: 6rem;
+    }
+}   
